@@ -104,7 +104,7 @@ body {
     cursor: pointer;
 }
 
-.btn-red:hover{
+.btn-white:hover{
     background-color: #fff;
     color: black;
     transition: all 0.2s;
